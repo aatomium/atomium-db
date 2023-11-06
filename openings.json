@@ -1,7 +1,10 @@
 {
     "openings" : [
         {
-            "name" : "Knight's openings"
+            "name" : "Knight's opening"
+        },
+        {
+            "name" : "Riemann's opening"
         }
     ]
 
