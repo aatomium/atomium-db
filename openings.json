@@ -1,10 +1,12 @@
 {
     "openings" : [
         {
-            "name" : "Knight's opening"
+            "name" : "Knight's opening",
+            "image" : "https://raw.githubusercontent.com/aatomium/atomium-db/main/img/knight.png"
         },
         {
-            "name" : "Riemann's opening"
+            "name" : "Riemann's opening",
+            "image" : "https://raw.githubusercontent.com/aatomium/atomium-db/main/img/riemann.png"
         },
         {
             "name" : "Baptiste's opening"
